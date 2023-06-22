@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.4 (2023-06-22)
+
+### 🛠️ Bug Fixes
+
+* Added «firebase» to bundlephobia exclusion list
+
 ### 1.1.3 (2023-06-14)
 
 ### 🛠️ Bug Fixes
