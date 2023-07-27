@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.5 (2023-07-27)
+
+### 🛠️ Bug Fixes
+
+* Removed tabs peerDependenciesMeta, bundleDependencies and optionalDependencies
+
 ### 1.1.4 (2023-06-22)
 
 ### 🛠️ Bug Fixes
