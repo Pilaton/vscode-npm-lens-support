@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.0 (2023-08-24)
+
+### 🎉 BREAKING CHANGES
+
+* Remade the structure and reduced the size of the bundle
+
 ### 1.1.5 (2023-07-27)
 
 ### 🛠️ Bug Fixes
