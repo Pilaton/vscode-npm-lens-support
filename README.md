@@ -34,7 +34,7 @@ Example 2
 ## Providers
 
 1. NPM
-2. Bundlephobia || BundleJS. <i>(Depends on service availability)</i>
+2. Bundlephobia || BundleJS. <i>(Currently completely disabled due to their unstable operation.)</i>
 
 ## Telemetry
 

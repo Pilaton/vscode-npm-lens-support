@@ -1,5 +1,16 @@
 # Changelog
 
+### 2.0.1 (2023-09-26)
+
+### 🛠️ Bug Fixes
+
+* Added a loader to the general packet size counter when switching tabs.
+* Packet size checking is disabled due to instability of API providers
+
+### 📝 Docs
+
+* Added information about disabling package size providers.
+
 ## 2.0.0 (2023-08-24)
 
 ### 🎉 BREAKING CHANGES
