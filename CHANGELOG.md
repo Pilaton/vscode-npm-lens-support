@@ -1,5 +1,29 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [3.0.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.0) (2024-02-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* Added ability to update direct packages from the extension
+
+### 🛠️ Bug Fixes
+
+* Corrected the typing ([c1f6bbe](https://github.com/Pilaton/vscode-npm-lens-support/commit/c1f6bbe062276f32c903bd288e064cfd80640a25))
+* Corrected the typing ([84fc5b6](https://github.com/Pilaton/vscode-npm-lens-support/commit/84fc5b6ce3198ed355ed022583b4f34d8da47f06))
+* NPM provider ([34a450a](https://github.com/Pilaton/vscode-npm-lens-support/commit/34a450a5c9797a18ea03b418b87097a07867b2b6))
+* rename files ([57789d1](https://github.com/Pilaton/vscode-npm-lens-support/commit/57789d18f0008560984da3a78adfc69471ef4870))
+
+
+### 🎉 Features
+
+* Added ability to update direct packages from the extension ([ba2d672](https://github.com/Pilaton/vscode-npm-lens-support/commit/ba2d6724cb8c9b135e1b5a736b79d36611be0a0b))
+* Code optimization ([d60a4e4](https://github.com/Pilaton/vscode-npm-lens-support/commit/d60a4e41dc37c2e505e2b33dc70c26be824a30ad))
+* **docs:** edit readme ([9a5f505](https://github.com/Pilaton/vscode-npm-lens-support/commit/9a5f505f04ecafc2cbb516f3aa3de60cad656710))
+* update packages ([c92ea1f](https://github.com/Pilaton/vscode-npm-lens-support/commit/c92ea1ff534d96ec8b7456c8915312342b91102b))
+
 ### 2.0.2 (2023-11-25)
 
 ### 🛠️ Bug Fixes
