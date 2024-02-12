@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.1) (2024-02-12)
+
+
+### 🛠️ Bug Fixes
+
+* **ci:** fix sync ([c235822](https://github.com/Pilaton/vscode-npm-lens-support/commit/c235822ff99277b37db163b958a91ba14fcd8776))
+* Corrected the typing ([c1f6bbe](https://github.com/Pilaton/vscode-npm-lens-support/commit/c1f6bbe062276f32c903bd288e064cfd80640a25))
+* Corrected the typing ([84fc5b6](https://github.com/Pilaton/vscode-npm-lens-support/commit/84fc5b6ce3198ed355ed022583b4f34d8da47f06))
+* fix ([75cecf6](https://github.com/Pilaton/vscode-npm-lens-support/commit/75cecf6fe20cde2a52c43ce723246eb946b19810))
+* **temp:** Temporary package manager definition fix ([4df634b](https://github.com/Pilaton/vscode-npm-lens-support/commit/4df634b199b34dae230aecd3d94b62552de3d4b8))
+
 ## [3.0.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.0) (2024-02-12)
 
 
