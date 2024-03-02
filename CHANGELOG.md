@@ -1,5 +1,11 @@
 # Changelog
 
+### [3.0.4](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.4) (2024-03-02)
+
+### 🛠️ Bug Fixes
+
+- npm update all packages is disabled ([30f7eea](https://github.com/Pilaton/vscode-npm-lens-support/commit/30f7eea1fc2867da25d695b3713f335c0f04b67d))
+
 ### [3.0.3](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.3) (2024-03-02)
 
 ### 🛠️ Bug Fixes
