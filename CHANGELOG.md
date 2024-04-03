@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.1.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v3.0.4...v3.1.0) (2024-04-03)
+
+### 🛠️ Bug Fixes
+
+- one terminal and yarn ([053dc0e](https://github.com/Pilaton/vscode-npm-lens-support/commit/053dc0e2d4649de1e2b6faf8a2dfba2b5d773cd3))
+
+### 🎉 Features
+
+- Update packages ([d7ad800](https://github.com/Pilaton/vscode-npm-lens-support/commit/d7ad800cb0af8f6a3b389902927848210ed3ee14))
+
 ### [3.0.4](https://github.com/Pilaton/vscode-npm-lens-support/compare/v2.0.1...v3.0.4) (2024-03-02)
 
 ### 🛠️ Bug Fixes
