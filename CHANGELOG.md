@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v3.0.4...v3.2.0) (2024-06-02)
+
+### Features
+
+- Update packages ([d7ad800](https://github.com/Pilaton/vscode-npm-lens-support/commit/d7ad800cb0af8f6a3b389902927848210ed3ee14))
+
+### Bug Fixes
+
+- Changed eslint to biome ([fddbabb](https://github.com/Pilaton/vscode-npm-lens-support/commit/fddbabb69fa597746a0f8cc9e0d854ef5a9c677a))
+- **docs:** Changed titles for the changelog file ([df28225](https://github.com/Pilaton/vscode-npm-lens-support/commit/df28225a6bd79c73a2c4b1f20aceabf73a259d29))
+- one terminal and yarn ([053dc0e](https://github.com/Pilaton/vscode-npm-lens-support/commit/053dc0e2d4649de1e2b6faf8a2dfba2b5d773cd3))
+
 ## [3.1.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v3.0.4...v3.1.0) (2024-04-03)
 
 ### 🛠️ Bug Fixes
