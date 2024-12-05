@@ -1,5 +1,31 @@
 # Changelog
 
+## [3.3.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v3.0.4...v3.3.0) (2024-12-05)
+
+### Features
+
+- Add button to copy package name ([6bfc033](https://github.com/Pilaton/vscode-npm-lens-support/commit/6bfc033ecf042ed8f13bd49a16acebca36723a32))
+- Add button to remove dependency ([2d8a320](https://github.com/Pilaton/vscode-npm-lens-support/commit/2d8a3202f817c54c43651727a971a310e4499df1))
+- Add dependency counter to tabs ([e064277](https://github.com/Pilaton/vscode-npm-lens-support/commit/e0642773cd9c6f54616d08267049f70d08f8e43a))
+- Update packages ([77faab4](https://github.com/Pilaton/vscode-npm-lens-support/commit/77faab422fe6aef3c369ac8aef7e43326680d620))
+- Update packages ([d7ad800](https://github.com/Pilaton/vscode-npm-lens-support/commit/d7ad800cb0af8f6a3b389902927848210ed3ee14))
+
+### Bug Fixes
+
+- Add tooltip with hint for "update all" button ([21bf0e5](https://github.com/Pilaton/vscode-npm-lens-support/commit/21bf0e5b7ec4f105d03c4adfe15435d43202b719))
+- Changed eslint to biome ([fddbabb](https://github.com/Pilaton/vscode-npm-lens-support/commit/fddbabb69fa597746a0f8cc9e0d854ef5a9c677a))
+- **docs:** Changed titles for the changelog file ([df28225](https://github.com/Pilaton/vscode-npm-lens-support/commit/df28225a6bd79c73a2c4b1f20aceabf73a259d29))
+- one terminal and yarn ([053dc0e](https://github.com/Pilaton/vscode-npm-lens-support/commit/053dc0e2d4649de1e2b6faf8a2dfba2b5d773cd3))
+- Pre-release versions are no longer highlighted in red ([bffd041](https://github.com/Pilaton/vscode-npm-lens-support/commit/bffd041a1a33bc714001d94dc4e341b40bd9de5d))
+
+### Refactoring
+
+- Adaptive layout in "short view" has been corrected ([2f709d1](https://github.com/Pilaton/vscode-npm-lens-support/commit/2f709d1690a95c479732a4d9093e16bd282f91b2))
+
+### Docs
+
+- Update README ([be06696](https://github.com/Pilaton/vscode-npm-lens-support/commit/be066967b03caa8d3f7cad6b97e149ba4f79abc5))
+
 ## [3.2.0](https://github.com/Pilaton/vscode-npm-lens-support/compare/v3.0.4...v3.2.0) (2024-06-02)
 
 ### Features

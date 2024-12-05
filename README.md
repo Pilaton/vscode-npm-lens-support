@@ -6,7 +6,7 @@ Simple and clear visual panel for npm dependencies of your project: Monitor Upda
 
 - A visualized list of your dependencies and their versions.
 - Checking for new available versions of your dependencies.
-- Easy update of dependencies.
+- Easy update and removal of dependencies.
 - Displays basic information about a package.
 - Calculates the total size of your project.
 - Adapts to VS Code theme.
@@ -18,4 +18,4 @@ To activate the extension, click on the new icon added to your `activitybar`.
 
 ## Example
 
-<img src="public/Screenshot-extension.jpg" alt="npmLens screenshot"/>
+![npmLens screenshot](public/screen-extension.png)
